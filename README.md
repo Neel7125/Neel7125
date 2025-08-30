@@ -1,4 +1,5 @@
-## Hi there 👋
+- Hello 👋\
+- I'm Neel,  Currently pursuing Information and Commmunication Technology 📡🧑🏻‍💻
 
 <!--
 **Neel7125/Neel7125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
