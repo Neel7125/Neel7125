@@ -1,4 +1,4 @@
-- Hello 👋\
+- Hello 👋
 - I'm Neel,  Currently pursuing Information and Commmunication Technology 📡🧑🏻‍💻
 
 <!--
