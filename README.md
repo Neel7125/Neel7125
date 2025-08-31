@@ -1,17 +1,31 @@
-- Hello 👋
-- I'm Neel,  Currently pursuing Information and Commmunication Technology 📡🧑🏻‍💻
+```bash
 
-<!--
-**Neel7125/Neel7125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                  _ _ _ _ _ _ _ _ _ _ _                      
+          .--.   | Hello👋, I'm Neel   | 
+         |o_o | /_ _ _ _ _ _ _ _ _ _ _ |                      
+         |:_/ |  
+        //   \ \ 
+       (|     | )
+      /'\_   _/`\
+      \___)=(___/
+          
 
-Here are some ideas to get you started:
+┌──(root㉿neel)-[~/bio]
+└─$ cat about.txt
+☁️ Cloud Enthusiast | 🔒 Security Learner
+🚀 Exploring IoT & ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+┌──(root㉿neel)-[~/skills]
+└─$ ls -la
+⚡ Python     ⚡ C++     ⚡ C
+⚡ Linux      ⚡ Figma   ⚡ MS Excel
+⚡ Cloud(AWS) ⚡ Networking
+
+
+┌──(root㉿neel)-[~/learnings]
+└─$ ./now.sh
+🌐 Cloud Computing & Computer Networks
+🤖 ML + IoT Projects
+🐧 Open Source Contributions
