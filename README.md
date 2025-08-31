@@ -21,7 +21,7 @@
 └─$ ls -la
 ⚡ Python     ⚡ C++     ⚡ C
 ⚡ Linux      ⚡ Figma   ⚡ MS Excel
-⚡ Cloud(AWS) ⚡ Networking
+⚡ SQL        ⚡ Networking
 
 
 ┌──(root㉿neel)-[~/learnings]
