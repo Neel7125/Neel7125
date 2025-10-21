@@ -21,7 +21,7 @@
 └─$ ls -la
 ⚡ Python     ⚡ C++      ⚡ C
 ⚡ Linux      ⚡ Figma    ⚡ MS Excel
-⚡ SQL        ⚡ Power BI ⚡ Networking
+⚡ SQL        ⚡ Power BI ⚡ Computer Networking
 ⚡ Docker     ⚡ Jenkins
 
 
