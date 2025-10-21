@@ -19,13 +19,16 @@
 
 ┌──(root㉿neel)-[~/skills]
 └─$ ls -la
-⚡ Python     ⚡ C++     ⚡ C
-⚡ Linux      ⚡ Figma   ⚡ MS Excel
-⚡ SQL        ⚡ Networking
+⚡ Python     ⚡ C++      ⚡ C
+⚡ Linux      ⚡ Figma    ⚡ MS Excel
+⚡ SQL        ⚡ Power BI ⚡ Networking
+⚡ Docker     ⚡ Jenkins
 
 
 ┌──(root㉿neel)-[~/learnings]
 └─$ ./now.sh
-🌐 Cloud Computing & Computer Networks
+🌨️ Cloud Computing & Computer Networks
 🤖 ML + IoT Projects
-🐧 Open Source Contributions
+🔎 Data Analysis
+🐧 Linux
+🌐 Open Source Contributions
